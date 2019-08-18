@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WifeAnger</string>
+    <string name="from">Asal</string>
+    <string name="wifes_name">Wife Name</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="title">Title</string>
+    <string name="detail">Description</string>
+    <string name="about">about</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="No_HP">No Hp</string>
+</resources>

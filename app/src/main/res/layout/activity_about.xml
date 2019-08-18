@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AboutActivity"
+    android:background="#DDE1D5">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@mipmap/aku" />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama : Oktafia Puspita Dewi"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:id="@+id/tv_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email : oktafiadewi2810@gmail.com"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:id="@+id/tv_nohp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Hp : 082386448303"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:id="@+id/tv_alamat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alamat : Taman Legenda Bali"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:id="@+id/tv_universitas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perguruan Tinggi : Politeknik Negeri Batam"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
